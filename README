@@ -1,0 +1,10 @@
+Input                                                Processing                                                                                 Output                                  
+ get from user                                        if user choose to continue him/her to enter details again (price, tax, rate description)   prompt user                             
+ get from storage                                     store divide by 100                                                                        output from use                         
+                                                                                                                                                                                         
+ tax rate from user (double tax rate)                 calculate for each product enter calculate tax rate % 100                                  prompt user for product price           
+ products description - form user (string describe)   sum price of each item                                                                     prompt user for tax rate                
+                                                      apply tax rate to total amount                                                             prompt user for product description     
+                                                      (tax rate / 100 to total amount)                                                           total amount                            
+                                                      if user store double price                                                                 display total amount (double tax rate)  
+                                                                                                                                                 prompt user to enter another product    
